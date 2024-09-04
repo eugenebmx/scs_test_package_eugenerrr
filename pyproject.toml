@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "scs_test_package_eugenerrr"
-version = "0.0.7"
-description = "The Pattern Matching for Python you always dreamed of"
+version = "0.0.8"
+description = "Test project"
 readme = "README.md"
 authors = [
-  {name = "Claudio Santini", email = "hireclaudio@gmail.com"}]
+  {name = "Whatever", email = "mail@gmail.com"}]
 requires-python = ">3.6"
 classifiers = [
     "Programming Language :: Python :: 3",
