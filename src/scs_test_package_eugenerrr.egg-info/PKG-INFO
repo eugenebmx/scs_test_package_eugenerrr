@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: scs_test_package_eugenerrr
+Version: 0.0.7
+Summary: The Pattern Matching for Python you always dreamed of
+Author-email: Claudio Santini <hireclaudio@gmail.com>
+Project-URL: Homepage, https://github.com/santinic/pampy
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >3.6
+Description-Content-Type: text/markdown
+
+This package is created for research purposes, don't install it

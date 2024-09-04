@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scs_test_package_eugenerrr"
+version = "0.0.7"
+description = "The Pattern Matching for Python you always dreamed of"
+readme = "README.md"
+authors = [
+  {name = "Claudio Santini", email = "hireclaudio@gmail.com"}]
+requires-python = ">3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+[project.urls]
+Homepage="https://github.com/santinic/pampy"

@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/scs_test_package_eugenerrr/__init__.py
+src/scs_test_package_eugenerrr/example.py
+src/scs_test_package_eugenerrr.egg-info/PKG-INFO
+src/scs_test_package_eugenerrr.egg-info/SOURCES.txt
+src/scs_test_package_eugenerrr.egg-info/dependency_links.txt
+src/scs_test_package_eugenerrr.egg-info/top_level.txt
