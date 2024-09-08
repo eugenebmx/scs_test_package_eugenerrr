@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 jobs:
-  deploy:
+  pypi-publish:
 
     runs-on: ubuntu-latest
     permissions:
@@ -27,5 +27,6 @@ jobs:
         pip install setuptools wheel build
     - name: Build package
       run: python -m build
-    - name: Publish package
-      uses: pypa/gh-action-pypi-publish@27b31702a0e7fc50959f5ad993c78deac1bdfc29
+    - name: pypi-publish
+      uses: pypa/gh-action-pypi-publish@v1.10.1
+            
